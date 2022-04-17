@@ -79,6 +79,7 @@
             </plugins>
         </pluginManagement>
     </build>
+
     <profiles>
         <profile>
             <id>gen-src</id>
